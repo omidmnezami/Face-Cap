@@ -11,10 +11,12 @@ Image captioning is the process of generating a natural language description of 
 ### Reference
 if you use our data or model, please cite our paper:
 ```
-@article{nezami2018face,
-  title={Face-Cap: Image Captioning using Facial Expression Analysis},
+@inproceedings{nezami2018face,
+  title={Face-cap: Image captioning using facial expression analysis},
   author={Nezami, Omid Mohamad and Dras, Mark and Anderson, Peter and Hamey, Len},
-  journal={arXiv preprint arXiv:1807.02250},
-  year={2018}
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={226--240},
+  year={2018},
+  organization={Springer}
 }
 ```   
